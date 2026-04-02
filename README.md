@@ -38,6 +38,8 @@ It also allows listing all stored flights and simulates real-world backend opera
 ---
 
 ## Project Structure
+### Class Diagram
 ![ClassDiagram1](https://github.com/user-attachments/assets/85ba01e4-4600-431f-861d-766e8722aaf5)
 
+### Use Case Diagram
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/23cafa44-176b-4393-9bd1-1991dc51083e)
